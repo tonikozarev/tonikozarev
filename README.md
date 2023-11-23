@@ -53,13 +53,14 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 <br/><br/>
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonikozarev&theme=nightowl)](https://git.io/streak-stats)
-![Toni Kozarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=nightowl&show_icons=true)
-<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonikozarev&theme=merko)](https://git.io/streak-stats)
+<br/>
+![Toni Kozarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=merko&show_icons=true)
+<br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
 
-## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
+## 🤝🏻 &nbsp;Connect with me&nbsp;&nbsp;
 <a target="_blank" title="[https://tonikozarev.github.io/](https://tonikozarev.github.io/)" href="https://tonikozarev.github.io/"><img src="https://img.shields.io/badge/-Personal%20Website-333333?style=flat&logo=aboutdotme&logoColor=white"/></a>
 <a target="_blank" title="https://www.linkedin.com/in/tonikozarev" href="https://www.linkedin.com/in/tonikozarev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" title="https://www.xing.com/profile/Toni_Kozarev/" href="https://www.xing.com/profile/Toni_Kozarev/"><img src="https://img.shields.io/badge/-XING-3ba344?style=flat&logo=Xing&logoColor=white"/></a>
