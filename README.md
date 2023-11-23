@@ -1,4 +1,4 @@
-# Henlo, I'm Toni Kozarev, welcome to my GitHub page. 👋
+# Henlo and welcome to my GitHub page. 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
@@ -12,7 +12,8 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 - ⚡ Fun fact: I am 340 moons old.
 - 💬 Let's talk about Android, Kotlin, Jetpack Compose and mobile development in general.
 - ✍️ Visit [my personal website](https://tonikozarev.github.io/) to learn more about me.
-<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tonikozarev">
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 
@@ -48,17 +49,14 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat)
 
 
-[![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10625431)](https://stackoverflow.com/users/10625431/toni-kozarev)
+[![Toni Kozarev StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10625431)](https://stackoverflow.com/users/10625431/toni-kozarev)
 <br/><br/>
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonikozarev&theme=nightowl)](https://git.io/streak-stats)
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=nightowl&show_icons=true)
-<br/>
-<img src="https://komarev.com/ghpvc/?username=tonikozarev">
+![Toni Kozarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=nightowl&show_icons=true)
+<br/><br/>
 
-
-### Most Used Languages&nbsp;&nbsp;
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
