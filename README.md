@@ -13,6 +13,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 - 💬 Let's talk about Android, Kotlin, Jetpack Compose and mobile development in general.
 - ✍️ Visit [my personal website](https://tonikozarev.github.io/) to learn more about me.
 
+[![wakatime](https://wakatime.com/badge/user/018c0c23-0dc6-4ada-9f4b-f7482b139230.svg)](https://wakatime.com/@018c0c23-0dc6-4ada-9f4b-f7482b139230)
 <img src="https://komarev.com/ghpvc/?username=tonikozarev">
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
@@ -54,11 +55,34 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonikozarev&theme=merko)](https://git.io/streak-stats)
-<br/>
 ![Toni Kozarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=merko&show_icons=true)
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+<!--
+<a href="https://github.com/tonikozarev">
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&theme=merko&v=2" />
+</a>
+
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&&theme=merko&link="https://www.github.com/tonikozarev/")
+-->
+
+<details>
+  <summary>Language Statistics:</summary>
+    <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
+</details>
+</br>
+<!--
+<details>
+  <summary>WakaTime Statistics:</summary>
+    <br/>
+    <a href="https://github.com/tonikozarev">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&theme=merko&v=2" />
+    </a>
+</details>
+-->
+
 
 ## 🤝🏻 &nbsp;Connect with me&nbsp;&nbsp;
 <a target="_blank" title="[https://tonikozarev.github.io/](https://tonikozarev.github.io/)" href="https://tonikozarev.github.io/"><img src="https://img.shields.io/badge/-Personal%20Website-333333?style=flat&logo=aboutdotme&logoColor=white"/></a>
