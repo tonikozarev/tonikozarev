@@ -1,0 +1,36 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # runs daily at 12 AM UTC (1 PM UTC+1)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### meta
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: tonikozarev/tonikozarev
+          ### content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: =>
+          CODE_LANG: kotlin
+          TIME_RANGE: all_time
+          LANG_COUNT: 7
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          ### commit
+          COMMIT_MESSAGE: updated waka-readme graph /w new stats
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          AUTHOR_NAME: Toni Kozarev
