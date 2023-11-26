@@ -73,15 +73,14 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
 </details>
 </br>
-<!--
+
 <details>
   <summary>WakaTime Statistics:</summary>
     <br/>
-    <a href="https://github.com/tonikozarev">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&theme=merko&v=2" />
-    </a>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
--->
+
 
 
 ## 🤝🏻 &nbsp;Connect with me&nbsp;&nbsp;
