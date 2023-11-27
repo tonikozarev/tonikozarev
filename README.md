@@ -78,7 +78,22 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
   <summary>WakaTime Statistics:</summary>
     <br/>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```kotlin
+From: 25 November 2023 - To: 26 November 2023
+
+Total Time: 3 hrs 55 mins
+
+Vue.js       2 hrs 10 mins   >>>>>>>>>>>>>>===========   55.35 %
+TypeScript   1 hr 22 mins    >>>>>>>>>================   35.03 %
+Kotlin       9 mins          >========================   04.14 %
+CSS          4 mins          =========================   01.85 %
+C#           4 mins          =========================   01.75 %
+TSConfig     2 mins          =========================   01.06 %
+HTML         0 secs          =========================   00.37 %
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 
