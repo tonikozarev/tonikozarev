@@ -1,5 +1,4 @@
 # Henlo and welcome to my GitHub page. 👋
-<br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 Dedicated Software Developer with a Bachelor's degree in Computer Science and a specialization in Android Development. Proficient in Kotlin, Java and C#, 
@@ -15,6 +14,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 
 [![wakatime](https://wakatime.com/badge/user/018c0c23-0dc6-4ada-9f4b-f7482b139230.svg)](https://wakatime.com/@018c0c23-0dc6-4ada-9f4b-f7482b139230)
 <img src="https://komarev.com/ghpvc/?username=tonikozarev">
+[![Toni Kozarev StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10625431)](https://stackoverflow.com/users/10625431/toni-kozarev)
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 
@@ -50,52 +50,35 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat)
 
 
-[![Toni Kozarev StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10625431)](https://stackoverflow.com/users/10625431/toni-kozarev)
-<br/><br/>
-
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonikozarev&theme=merko)](https://git.io/streak-stats)
 ![Toni Kozarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=merko&show_icons=true)
 <br/>
 
-<!--
-<a href="https://github.com/tonikozarev">
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&theme=merko&v=2" />
-</a>
-
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&&theme=merko&link="https://www.github.com/tonikozarev/")
--->
-
-<details>
-  <summary>Language Statistics:</summary>
-    <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Toni Kozarev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonikozarev&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" /></a>
-</details>
 </br>
 
 <details>
-  <summary>WakaTime Statistics:</summary>
+  <summary>WakaTime All-Time Statistics:</summary>
     <br/>
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 25 November 2023 - To: 27 November 2023
+From: 25 November 2023 - To: 26 November 2023
 
-Total Time: 11 hrs 23 mins
+Total Time: 3 hrs 55 mins
 
-Vue.js                 4 hrs 17 mins   >>>>>>>>>================   37.64 %
-Kotlin                 4 hrs 12 mins   >>>>>>>>>================   36.91 %
-TypeScript             1 hr 50 mins    >>>>=====================   16.22 %
-CSS                    12 mins         =========================   01.79 %
-textmate               10 mins         =========================   01.56 %
-Gradle                 9 mins          =========================   01.44 %
+Vue.js       2 hrs 10 mins   >>>>>>>>>>>>>>===========   55.35 %
+TypeScript   1 hr 22 mins    >>>>>>>>>================   35.03 %
+Kotlin       9 mins          >========================   04.14 %
+CSS          4 mins          =========================   01.85 %
+C#           4 mins          =========================   01.75 %
+TSConfig     2 mins          =========================   01.06 %
+HTML         0 secs          =========================   00.37 %
 ```
 
 <!--END_SECTION:waka-->
 </details>
-
-
 
 ## 🤝🏻 &nbsp;Connect with me&nbsp;&nbsp;
 <a target="_blank" title="[https://tonikozarev.github.io/](https://tonikozarev.github.io/)" href="https://tonikozarev.github.io/"><img src="https://img.shields.io/badge/-Personal%20Website-333333?style=flat&logo=aboutdotme&logoColor=white"/></a>
