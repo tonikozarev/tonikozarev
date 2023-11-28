@@ -80,17 +80,16 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 25 November 2023 - To: 26 November 2023
+From: 25 November 2023 - To: 27 November 2023
 
-Total Time: 3 hrs 55 mins
+Total Time: 11 hrs 23 mins
 
-Vue.js       2 hrs 10 mins   >>>>>>>>>>>>>>===========   55.35 %
-TypeScript   1 hr 22 mins    >>>>>>>>>================   35.03 %
-Kotlin       9 mins          >========================   04.14 %
-CSS          4 mins          =========================   01.85 %
-C#           4 mins          =========================   01.75 %
-TSConfig     2 mins          =========================   01.06 %
-HTML         0 secs          =========================   00.37 %
+Vue.js                 4 hrs 17 mins   >>>>>>>>>================   37.64 %
+Kotlin                 4 hrs 12 mins   >>>>>>>>>================   36.91 %
+TypeScript             1 hr 50 mins    >>>>=====================   16.22 %
+CSS                    12 mins         =========================   01.79 %
+textmate               10 mins         =========================   01.56 %
+Gradle                 9 mins          =========================   01.44 %
 ```
 
 <!--END_SECTION:waka-->
