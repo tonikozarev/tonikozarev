@@ -6,7 +6,7 @@ known for strong organizational, analytical, and problem-solving skills. A colla
 enhance skills. Outside of professional endeavors, I enjoy engaging in strategic games like chess and billiards, indulging in reading, flying drones, and 
 maintaining an active lifestyle. Passionate about travel, investing, and self-development.
 
-- 📱  An Android Developer with over 5 years experience.
+- 📱  An Android Developer with 3 years full-time working experience.
 - 💯 Motto: "Visualize yourself better everyday!"
 - ⚡ Fun fact: I am 340 moons old.
 - 💬 Let's talk about Android, Kotlin, Jetpack Compose and mobile development in general.
