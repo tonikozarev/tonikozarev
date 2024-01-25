@@ -64,7 +64,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 25 November 2023 - To: 22 January 2024
+From: 25 November 2023 - To: 23 January 2024
 
 Total Time: 19 hrs 17 mins
 
