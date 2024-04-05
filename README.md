@@ -64,7 +64,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 25 November 2023 - To: 02 April 2024
+From: 25 November 2023 - To: 03 April 2024
 
 Total Time: 20 hrs 59 mins
 
@@ -72,6 +72,7 @@ Kotlin                 9 hrs 8 mins    >>>>>>>>>>>==============   43.56 %
 Vue.js                 4 hrs 42 mins   >>>>>>===================   22.42 %
 JavaScript             3 hrs 7 mins    >>>>=====================   14.90 %
 TypeScript             2 hrs 15 mins   >>>======================   10.72 %
+JSON                   47 mins         >========================   03.76 %
 CSS                    12 mins         =========================   00.97 %
 textmate               10 mins         =========================   00.85 %
 ```
