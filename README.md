@@ -3,13 +3,13 @@
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 Dedicated Software Developer with a Bachelor's degree in Computer Science and a specialization in Android Development. Proficient in Kotlin, Java and C#, 
 known for strong organizational, analytical, and problem-solving skills. A collaborative team player with a relentless drive to tackle challenges and continuously 
-enhance skills. Outside of professional endeavors, I enjoy engaging in strategic games like chess and billiards, indulging in reading, flying drones, and 
+enhance skills. Outside of professional endeavors, I enjoy engaging in strategic games like chess, biking in the forest, indulging in reading, flying drones, and 
 maintaining an active lifestyle. Passionate about travel, investing, and self-development.
 
-- 📱  An Android Developer with 5 years full-time working experience.
+- 📱  An Android Developer with 3+ years full-time working experience.
 - 💯 Motto: "Visualize yourself better everyday!"
-- ⚡ Fun fact: I am 370 moons old.
-- 💬 Let's talk about Android, Kotlin, Jetpack Compose and mobile development in general.
+- ⚡ Fun fact: I am 372 moons old.
+- 💬 Let's talk about Android, Mobile Development and AI.
 - ✍️ Visit [my personal website](https://tonikozarev.github.io/) to learn more about me.
 
 [![wakatime](https://wakatime.com/badge/user/018c0c23-0dc6-4ada-9f4b-f7482b139230.svg)](https://wakatime.com/@018c0c23-0dc6-4ada-9f4b-f7482b139230)
