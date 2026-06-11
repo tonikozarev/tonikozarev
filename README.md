@@ -9,7 +9,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 - 📱  An Android Developer with 3+ years full-time working experience.
 - 💯 Motto: "Visualize yourself better everyday!"
 - ⚡ Fun fact: I am 372 moons old.
-- 💬 Let's talk about Android, Mobile Development and AI.
+- 💬 Let's talk about Software Engineering, especially Mobile Development and AI.
 - ✍️ Visit [my personal website](https://tonikozarev.github.io/) to learn more about me.
 
 [![wakatime](https://wakatime.com/badge/user/018c0c23-0dc6-4ada-9f4b-f7482b139230.svg)](https://wakatime.com/@018c0c23-0dc6-4ada-9f4b-f7482b139230)
