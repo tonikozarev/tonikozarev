@@ -64,16 +64,16 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 25 November 2023 - To: 09 June 2026
+From: 25 November 2023 - To: 11 June 2026
 
-Total Time: 34 hrs 32 mins
+Total Time: 40 hrs 47 mins
 
-Kotlin                 12 hrs 7 mins         >>>>>>>>>================   34.63 %
-JavaScript             9 hrs 7 mins          >>>>>>>==================   26.03 %
-Vue.js                 4 hrs 46 mins         >>>======================   13.65 %
-TypeScript             3 hrs 18 mins         >>=======================   09.42 %
-XML                    30 mins               =========================   01.43 %
-Other                  29 mins               =========================   01.40 %
+Kotlin                 12 hrs 7 mins         >>>>>>>==================   27.97 %
+JavaScript             9 hrs 42 mins         >>>>>>===================   22.38 %
+TypeScript             5 hrs 5 mins          >>>======================   11.74 %
+Vue.js                 4 hrs 46 mins         >>>======================   11.02 %
+Vue                    3 hrs 19 mins         >>=======================   07.67 %
+Other                  2 hrs 35 mins         >========================   05.96 %
 ```
 
 <!--END_SECTION:waka-->
