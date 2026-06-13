@@ -64,7 +64,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 25 November 2023 - To: 11 June 2026
+From: 25 November 2023 - To: 12 June 2026
 
 Total Time: 40 hrs 47 mins
 
