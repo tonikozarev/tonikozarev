@@ -3,13 +3,15 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # runs daily at 12 AM UTC (1 PM UTC+1)
-    - cron: "0 0 * * *"
+    # runs daily at 12 AM UTC (3 PM UTC+3)
+    - cron: "0 21 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -31,6 +33,6 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
           COMMIT_MESSAGE: updated waka-readme graph /w new stats
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           AUTHOR_NAME: Toni Kozarev
