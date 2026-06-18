@@ -51,7 +51,7 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonikozarev&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tonikozarev&theme=merko)](https://git.io/streak-stats)
 ![Toni Kozarev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=merko&show_icons=true)
 <br/>
 
