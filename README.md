@@ -52,11 +52,11 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=tonikozarev&theme=gotham)](https://git.io/streak-stats)
-![Toni Kozarev's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonikozarev&theme=gotham)
 <!-- Not working anymore => (https://github-readme-stats.vercel.app/api?username=tonikozarev&theme=merko&show_icons=true) -->
 
 <br/>
 
+![Toni Kozarev's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonikozarev&theme=gotham)
 ![Github Top Languages Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tonikozarev&theme=gotham)
 <!-- Not working anymore => ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonikozarev&layout=compact&&theme=merko&link="https://www.github.com/tonikozarev/") -->
 </br>
