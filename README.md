@@ -67,12 +67,12 @@ maintaining an active lifestyle. Passionate about travel, investing, and self-de
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 26 June 2026 - To: 26 July 2026
+From: 28 June 2026 - To: 28 July 2026
 
-Total Time: 37 hrs 37 mins
+Total Time: 35 hrs 17 mins
 
-Kotlin            36 hrs 23 mins        >>>>>>>>>>>>>>>>>>>>>>===   89.46 %
-Other             3 hrs 3 mins          >>=======================   07.51 %
+Kotlin            34 hrs 3 mins         >>>>>>>>>>>>>>>>>>>>>>===   88.84 %
+Other             3 hrs 2 mins          >>=======================   07.94 %
 ```
 
 <!--END_SECTION:waka-->
