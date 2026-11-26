@@ -13,12 +13,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update README statistics
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: tonikozarev/tonikozarev
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
