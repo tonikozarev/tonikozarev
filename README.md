@@ -68,16 +68,12 @@ Passionate about travel, investing and self-development.
     <!--START_SECTION:waka-->
 
 ```kotlin
-From: 30 September 2026 - To: 30 October 2026
+From: 26 October 2026 - To: 25 November 2026
 
-Total Time: 4 hrs 53 mins
+Total Time: 46 mins
 
-Kotlin            3 hrs 23 mins         >>>>>>>>>>>>>>>>>========   69.30 %
-PHP               22 mins               >>=======================   07.54 %
-XML               4 mins                =========================   01.56 %
-Java Properties   2 mins                =========================   00.73 %
-Markdown          2 mins                =========================   00.72 %
-GitIgnore file    1 min                 =========================   00.59 %
+Kotlin   42 mins               >>>>>>>>>>>>>>>>>>>>>>>==   91.89 %
+PHP      3 mins                >>=======================   08.11 %
 ```
 
 <!--END_SECTION:waka-->
