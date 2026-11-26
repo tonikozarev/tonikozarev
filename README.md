@@ -1,10 +1,10 @@
 # Henlo and welcome to my GitHub page. 👋
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-Dedicated Software Developer with a Bachelor's degree in Computer Science and a specialization in Android Development. Proficient in Kotlin, Java and C#, 
+Dedicated Software Developer with a Bachelor's degree in Computer Science and a specialization in Mobile Development. Proficient in Java, Kotlin, Swift and C#, 
 known for strong organizational, analytical, and problem-solving skills. A collaborative team player with a relentless drive to tackle challenges and continuously 
-enhance skills. Outside of professional endeavors, I enjoy engaging in strategic games like chess, biking in the forest, indulging in reading, flying drones, and 
-maintaining an active lifestyle. Passionate about travel, investing, and self-development.
+enhance skills. Outside of professional endeavors, I enjoy playing chess, biking in the forest, flying drones and maintaining an active lifestyle. 
+Passionate about travel, investing and self-development.
 
 - 📱  A Software Developer with 5+ years working experience.
 - 💯 Motto: "Visualize yourself better everyday!"
